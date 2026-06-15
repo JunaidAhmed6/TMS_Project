@@ -14,7 +14,7 @@ The core architecture evaluates statistical frequency encodings against dense ne
 
 ---
 
-## ⚙️ System Architecture & Methodology
+## System Architecture & Methodology
 
 The pipeline processes unstructured text through two major analytical components:
 
